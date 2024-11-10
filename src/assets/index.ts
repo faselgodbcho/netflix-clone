@@ -1,0 +1,15 @@
+export { default as logo } from "./logo.png";
+export { default as search_icon } from "./search_icon.svg";
+export { default as bell_icon } from "./bell_icon.svg";
+export { default as profile_img } from "./profile_img.png";
+export { default as caret_icon } from "./caret_icon.svg";
+export { default as hero_banner } from "./hero_banner.jpg";
+export { default as hero_title } from "./hero_title.png";
+export { default as play_icon } from "./play_icon.png";
+export { default as info_icon } from "./info_icon.png";
+export { default as youtube_icon } from "./youtube_icon.png";
+export { default as twitter_icon } from "./twitter_icon.png";
+export { default as instagram_icon } from "./instagram_icon.png";
+export { default as facebook_icon } from "./facebook_icon.png";
+export { default as back_arrow_icon } from "./back_arrow_icon.png";
+export { default as netflix_spinner } from "./netflix_spinner.gif";
